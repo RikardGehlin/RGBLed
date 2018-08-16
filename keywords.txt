@@ -1,5 +1,5 @@
-RGBLed   KEYWORD1
-setColors  KEYWORD2
-turnOn  KEYWORD2
-turnOff  KEYWORD2
-fadeTo  KEYWORD2
+RGBLed	KEYWORD1
+setColors	KEYWORD2
+turnOn	KEYWORD2
+turnOff	KEYWORD2
+fadeTo	KEYWORD2
